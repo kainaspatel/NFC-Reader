@@ -9,11 +9,6 @@ The NFC Reader app allows users to interact with NFC (Near Field Communication) 
 - Display tag information such as ID, technologies, etc.
 - Toast messages for user feedback.
 
-## Screenshots
-
-<img src="https://github.com/abdelaz9z/NFC-Reader/blob/master/Screenshot_20240220_094138.png" width=285> <img src="https://github.com/abdelaz9z/NFC-Reader/blob/master/Screenshot_20240220_094158.png" width=285>
-
-You can replace the image URLs with the actual URLs of your screenshots and provide appropriate captions for each screenshot. This will help users understand the visual aspects of your NFC Reader app.
 
 ## Usage
 
